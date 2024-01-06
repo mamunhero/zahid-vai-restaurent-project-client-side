@@ -3,7 +3,7 @@ import Title from "../../Components/Title";
 const ManageProduct = () => {
   return (
     <div>
-      <Title>Manage a Product </Title>
+      <Title>Your Products</Title>
     </div>
   );
 };
